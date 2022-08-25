@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/aoikaneko/aoikaneko.github.io.git
+	branch = main
